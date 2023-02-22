@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "name": "San pham 1",
+      "author": "Thành",
+      "tech": "PHP",
+      "link": "https://github.com",
+      "desc": "Website bán hàng online",
+      "img": [
+        "https://res.cloudinary.com/dvcuij8nq/image/upload/v1677020829/j3g4xtlpxrvdwexzxavo.jpg"
+      ],
+      "id": 13
+    },
+    {
+      "name": "Dự án mẫu",
+      "author": "Thành",
+      "tech": "PHP",
+      "link": "https://github.com/olathanh113/ASM_duanmau",
+      "desc": "Website bán quần áo online",
+      "img": [
+        "https://res.cloudinary.com/dvcuij8nq/image/upload/v1677022874/b6sxcfrwapxzqvrgsy1p.png"
+      ],
+      "id": 14
+    }
+  ]
+}
